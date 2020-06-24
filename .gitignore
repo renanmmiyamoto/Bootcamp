@@ -61,3 +61,7 @@
 
 # CocoaPods
 **/ios/Pods/
+
+
+/api/tmp/*
+!/api/tmp/.gitkeep
